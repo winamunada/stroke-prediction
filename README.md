@@ -1,6 +1,6 @@
 # STROKE PREDICTION MODEL
 
-This project involves building and deploying a machine learning model to predict stroke occurrences using patient data. The goal is to create a tool that helps healthcare professionals identify individuals at high risk of stroke and provide timely intervention.
+A leading healthcare organization seeks to predict stroke risk using patient medical history and demographic data. As a data scientist, I built and validated a prediction model using the Random Forest algorithm. This involved data cleaning, processing, analysis, visualization, and deployment for clinical use. The model, achieving 95% accuracy, aims to mitigate stroke incidents and enhance patient outcomes.
 
 ## Algorithms Used
 - **Random Forest:** A robust and high-performance ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification.
